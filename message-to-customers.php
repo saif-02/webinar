@@ -7,7 +7,7 @@
 		include "includes/header.php";
 		meta_tags();
 	?>
-    <title>Message to Customers:: Tejas Networks</title>
+    <title>Message from the CEO:: Tejas Networks</title>
     <?php css_files();?>
 </head>
 
@@ -31,7 +31,7 @@ while($row_cor_history=mysqli_fetch_array($select_cor_history)){
 	<div class="container-fluid no-padding">
 		<div class="corporate_header" style="background-image: url(images/message_to_customers.jpg) !important">
 			<div class="container">
-				<h1 style=" max-width: 422px;">Message to Customers</h1>
+				<h1 style=" max-width: 422px;">Message from the CEO</h1>
 			</div>	
 		</div>
 	</div>
